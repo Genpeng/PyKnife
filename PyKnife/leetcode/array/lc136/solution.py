@@ -82,7 +82,7 @@ class Solution4:
         """
         解法四：位运算
         时间复杂度：O(n)
-        空间复杂度：O(n)
+        空间复杂度：O(1)
 
         :type nums: List[int]
         :rtype: int
