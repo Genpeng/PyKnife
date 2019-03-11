@@ -103,5 +103,13 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# PyCharm
+# OS generated files
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Idea/PyCharm generated files
 .idea/
