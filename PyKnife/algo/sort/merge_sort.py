@@ -1,5 +1,13 @@
 # _*_ coding: utf-8 _*_
 
+"""
+Merge Sort algorithm.
+
+Reference:
+[1] https://www.bilibili.com/video/av9982752
+[2] https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheMergeSort.html
+"""
+
 
 def merge_sort(arr: list):
     """
