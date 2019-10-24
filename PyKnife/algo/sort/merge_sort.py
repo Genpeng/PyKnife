@@ -1,11 +1,13 @@
 # _*_ coding: utf-8 _*_
 
 """
-Merge Sort algorithm.
+Implementation of merge sort algorithm.
 
 Reference:
 [1] https://www.bilibili.com/video/av9982752
 [2] https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheMergeSort.html
+
+Author: Genpeng Xu
 """
 
 
